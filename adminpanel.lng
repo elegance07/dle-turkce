@@ -38,7 +38,7 @@ $lang = array (
 
 'google_changefreq'		=>	"Changes:",
 
-'sitemap_changefreq_1'	=>	"Hep",
+'sitemap_changefreq_1'	=>	"Her Zaman",
 
 'sitemap_changefreq_2'	=>	"Saatlik",
 
