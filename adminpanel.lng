@@ -4,6 +4,61 @@ $lang = array (
 
 'charset'				=>	"utf-8",
 'wysiwyg_language'		=>  "tr",
+// 15.2
+
+'opt_sys_recaptsc'		=>	"The value of Score when using reCAPTCHA v.3:",'opt_sys_recaptscd'		=>	"This value is used to check the probability with which the user can be a robot when using the reCAPTCHA v.3. This field can take a value from 0 to 1, where, for example, 0.1 means that it is most likely a robot, and 0.9 is most likely a person. You can specify, specify with what probability to skip the user. Recommended value: 0.5",
+
+'indexnow_error_202'	=>	"URL received. IndexNow key validation pending.",
+
+'indexnow_error_400'	=>	"Invalid format.",
+
+'indexnow_error_403'	=>	"In case of key not valid (e.g. key not found, file found but key not in the file).",
+
+'indexnow_error_422'	=>	"In case of URLs which don’t belong to the host or the key is not matching the schema in the protocol.",
+
+'indexnow_error_429'	=>	"Too Many Requests (potential Spam).",
+
+'opt_sys_turl'			=>	"Enable transliteration URL:",
+
+'opt_sys_turld'			=>	"When this option is enabled, the characters will be transliterated into Latin when forming the URL. For example, when this option is enabled, the publication URL will look like: http://yoursite.com/id-imja-novosti.html, and when disabled, it will look like: http://yoursite.com/id-имя-новости.html",
+
+'mass_add_cloud'		=>	"Add words to the tags cloud",
+
+'plugins_not_found_2'	=>  "No plugins found for your search query",
+
+'opt_sys_imshr'			=>	"Use external storage for a folder with shared images",
+
+'opt_sys_imshrd'		=>	"Пwhen this setting is enabled, the folder with shared images will be used from external storage. And when disabled, it will be used located on the local storage.",
+
+'files_max_info_4'		=>	"Uploaded images: <b>{uploaded}</b> from <b>{count}</b> maximum allowable. You can upload <b>{allowed}</b>",
+
+'files_max_info_5'		=>	"Uploaded files: <b>{uploaded}</b> from <b>{count}</b> maximum allowable. You can upload <b>{allowed}</b>",
+
+'google_save'			=>	"Save the values?",
+
+'google_changefreq'		=>	"Changes:",
+
+'sitemap_changefreq_1'	=>	"Hep",
+
+'sitemap_changefreq_2'	=>	"Saatlik",
+
+'sitemap_changefreq_3'	=>	"Günlük",
+
+'sitemap_changefreq_4'	=>	"Haftalık",
+
+'sitemap_changefreq_5'	=>	"Aylık",
+
+'sitemap_changefreq_6'	=>	"Yıllık",
+
+'sitemap_changefreq_7'	=>	"Hiçbir zaman",
+
+'google_nnumpf'			=>	"Number of links per file:",
+
+'hint_g_nnumpf'			=>	"You can specify how many links should be placed in one map file. If there are more links on your site, the map will be split into several files. There cannot be more than 40 000 links per file.",
+
+'google_map_info_2'		=>	"The index file for Google News has been created and is available at:",
+
+// 15.2
 
 // 15.1
 'opt_sys_imfs_6'		=>	"Herhangi S3 uyumlu depolama",
