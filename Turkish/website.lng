@@ -2,8 +2,82 @@
 
 $lang = array (
 
-'charset'			=>	"utf-8",
-'wysiwyg_language'	=>  "tr",
+'language_code'		    =>  "tr",
+'direction'		        =>  "ltr",
+
+// 17.3
+'stat_phperror' => "Sunucudaki PHP sürümü minimum gereksinimleri karşılamıyor. Datalife Engine, bu eski PHP sürümünde doğru çalışmayacaktır. Doğru bir şekilde çalışabilmesi için PHP sürümünün en az <b>{minversion}</b> sürümüne güncellenmesi gerekmektedir. Yüklediğiniz sürüm {version}",
+'country_declined' => "Bulunduğunuz ülke bu siteyi görüntülemek için yasaklanmıştır.",
+// 17.3
+
+// 17.2
+'ajax_edit_cat' => "Kategori:",
+'group_change_1' => "<b>{oldgroup}</b> grubundaki süreniz doldu. <b>{newgroup}</b> grubuna geçtiniz.",
+'group_change_2' => "{count} yayınladınız, bu nedenle <b>{oldgroup}</b> grubundan <b>{newgroup}</b> grubuna geçtiniz.",
+'group_change_3' => "{count} yorum yaptınız, bu yüzden <b>{oldgroup}</b> grubundan <b>{newgroup}</b> grubuna geçtiniz.",
+'group_change_4' => "Yeni yayın derecenize göre, <b>{oldgroup}</b> grubundan <b>{newgroup}</b> grubuna geçtiniz.",
+'group_change_5' => "Yeni yorum derecenize göre, <b>{oldgroup}</b> grubundan <b>{newgroup}</b> grubuna geçtiniz.",
+'addnews_xf_alert_2' => "<b>{field}</b> alanı en az <b>{count}</b> karakter içermelidir",
+'addnews_xf_alert_3' => "<b>{field}</b> alanı en fazla <b>{count}</b> karakter içermelidir",
+'error_complaint_5' => "Bu anda yöneticiye gönderilebilecek şikayet sayısını aştınız. Herhangi bir rahatsızlık için özür dileriz ve hesabınızdan gönderilen şikayetleri işlemeye devam ederken sabrınızı rica ediyoruz. Anlayışınız için teşekkür ederiz",
+'error_complaint_6' => "Grubunuz <b>'{group}'</b> için site yönetimi şikayet göndermeyi yasakladı",
+// 17.2
+
+// 17.1
+'comm_placeholder' => "Lütfen yorum metninizi yazın.",
+'comm_a_placeholder' => "Yorumun yazarının adı",
+'error_complaint_4' => "Şikayet metnini belirtmediniz.",
+// 17.1
+
+// 17.0
+'attach_images' => "Resimleri Ekle",
+'self_delete_1' => "Hesabınızı ve tüm verilerinizi bu siteden silmek istediğinizden emin misiniz? Bu işlem geri alınamaz.",
+'self_delete_2' => "Hesabınızın silinmesini onaylamak için şifrenizi girmeniz gerekmektedir:",
+'self_delete_3' => "Hesap siliniyor",
+'self_delete_4' => "Şifre gerekli",
+'self_delete_5' => "Hesabınız ve tüm verileriniz siteden silindi.",
+'self_delete_6' => "Hesabınızın silinmesi talebiniz site yönetimine gönderildi. Site yöneticisi tarafından işleme alınacaktır.",
+// 17.0
+
+// 16.1
+'twofactor_auth_1' => "Kapalı",
+'twofactor_auth_2' => "E-posta ile tek kullanımlık PIN kodu",
+'twofactor_auth_3' => "Google Authenticator ile tek kullanımlık PIN kodu",
+'twofactor_auth_4' => "Google Authenticator uygulamasını veya OTP yetkilendirmesi için uyumlu başka bir uygulamayı telefonunuza indirerek iki faktörlü kimlik doğrulamayı etkinleştirebilirsiniz. Ardından bu uygulamada belirtilen QR kodunu taratın.",
+'twofactor_auth_5' => "Siteye bağlantı oluşturmak için uygulamadan PIN kodunu girin:",
+'twofactor_err_6' => "Hatalı PIN kodu girildi",
+'twofactor_alert_1' => "Hesabınız için iki faktörlü kimlik doğrulamasını etkinleştirdiniz. Siteye giriş yapmak için uygulamadan tek kullanımlık PIN kodunu girmeniz gerekmektedir:",
+'twofactor_ok' => "İki faktörlü kimlik doğrulama etkinleştirildi.",
+'add_ok_4' => "Yayın başarıyla düzenlendi.",
+'sort_by_edate' => "değişiklik tarihi",
+'xfield_xfvideo' => "Video dosyaları yükle",
+'xfield_xfaudio' => "Ses dosyaları yükle",
+'download_error' => "Site yönetimi, günde en fazla {count} dosya indirmeye izin verdi. Bu dosyayı yalnızca yarın indirebilirsiniz.",
+// 16.1
+
+// 16.0
+'error_max_queue' => "Yüklemeye izin verilen dosya sayısını aştınız",
+'add_err_12' => "Bu yayını düzenleme yetkiniz yok.",
+'title_editnews' => "Yayın Düzenleme",
+'hours_diffs' => "saat|ler",
+'minutes_diffs' => "dakika|dakika",
+'time_diffs' => "önce",
+'now_diffs' => "Şimdi",
+'diffs_format' => "{date} tarihinde {time} saatinde",
+'user_says' => "der ki:",
+'thumb_imageerror' => "Resim yüklenemedi",
+'thumb_fullscreen' => "Tam ekran modu",
+'thumb_thtoggle' => "Küçük resimleri aç / kapat",
+'thumb_thzoom' => "Büyüt / Küçült",
+'thumb_thdownload' => "Resmi indir",
+// 16.0
+
+
+// 15.3
+'media_upload_st_5' => "Resimleri buraya sürükleyip bırakın",
+'subscribe_info_4' => "Bu yayına yorumlardan abonelikten gerçekten çıkmak istiyor musunuz?",
+'subscribe_info_5' => "Yayındaki yorumlara abonelikten başarıyla çıkıldı",
+// 15.3
 
 // 15.2
 'news_info_9'			=>	"Bu yayın hakkında yorum yapma özelliği devre dışı bırakıldı.",
