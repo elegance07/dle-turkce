@@ -2,6 +2,25 @@
 
 $lang_logs = array (
 
+// 17.0
+'admin_logs_action_122'		=>	"Yönlendirme modülünde bağlantıları devre dışı bırakma",
+'admin_logs_action_123'		=>	"Yönlendirme modülünde bağlantıları etkinleştirme",
+'admin_logs_action_124'		=>	"Meta Etiketleri modülünde bağlantıları devre dışı bırakma",
+'admin_logs_action_125'		=>	"Meta Etiketleri modülünde bağlantıları etkinleştirme",
+'admin_logs_action_126'		=>	"Cross-references modülünde bağlantıları devre dışı bırakma",
+'admin_logs_action_127'		=>	"Cross-references modülünde bağlantıları etkinleştirme",
+'admin_logs_action_128'		=>	"Yeni bir depolama alanı ekleniyor:",
+'admin_logs_action_129'		=>	"Depolama alanı düzenleniyor:",
+'admin_logs_action_130'		=>	"Dış Depolamayı devre dışı bırakma",
+'admin_logs_action_131'		=>	"Dış Depolamayı etkinleştirme",
+'admin_logs_action_132'		=>	"Dış Depolamanın toplu silinmesi",
+'admin_logs_action_133'		=>	"Dış Depolamanın toplu dahil edilmesi",
+'admin_logs_action_134'		=>	"Dış Depolamanın toplu kapatılması",
+'admin_logs_action_135'		=>	"Varsayılan depolama alanı değiştirilmesi",
+'admin_logs_action_136'		=>	"Depolama alanı siliniyor:",
+'admin_logs_action_137'		=>	"Kendi hesabını silme",
+// 17.0
+
 // 14.0
 'admin_logs_action_120'		=>	"Kategoriyi aktive etti, ID:",
 'admin_logs_action_121'		=>	"Kategoriyi deaktive etti, ID:",
