@@ -4,7 +4,7 @@
 	<description>DataLife Engine Türkçe Yama</description>
 	<icon>engine/skins/images/dlenettr.png</icon>
 	<version>15.3</version>
-	<dleversion>15.2</dleversion>
+	<dleversion>17.3</dleversion>
 	<versioncompare>greater</versioncompare>
 	<upgradeurl>https://raw.githubusercontent.com/elegance07/dle-turkce/main/release.json</upgradeurl>
 	<filedelete>0</filedelete>
