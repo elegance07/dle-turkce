@@ -1,6 +1,12 @@
 <?php
 
 $lang = array_merge($lang, array (
+// 17.3
+'install_94' => "FileInfo uzantı desteği",
+'install_95' => "GD2 uzantı desteği",
+'install_96' => "Curl uzantı desteği",
+'install_97' => "SimpleXML uzantı desteği",
+// 17.3
 
 // 14.3
 'install_1'		=>	"DataLife Engine Kurulum Sihirbazı",
