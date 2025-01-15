@@ -1,3 +1,12 @@
+DLE Türkçe dil dosyasını ve sistem üzerinde yapılması gereken değişiklikleri plugin olarak sisteminize yükleyebilirsiniz.
+
+
+## Çeviri Sahipleri
+* **Elegance** DLE 15.0 ve sonrası
+* **MaRZoCHi** DLE 9.7 ve sonrası
+* **Supremacy** DLE 9.6 ve öncesi ( *Çevirileri için teşekkürler..* )
+
+
 # dle-turkce 17.3
 # dle-turkce 17.3
 # dle-turkce 17.3
