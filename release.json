@@ -1,4 +1,12 @@
 {
-	"version": "17.3",
-	"url": "https://github.com/elegance07/dle-turkce/raw/main/plugins/dle173_tr.zip"
+    "name": "DLE Türkçe Dil Dosyası",
+    "description": "DataLife Engine CMS Türkçe dil paketi",
+    "version": "17.3",
+    "download_url": "https://github.com/elegance07/dle-turkce/releases/download/v17.3/dle17.3.zip",
+    "released": "2025-02-01 10:49:09",
+    "changelog": [
+        "DLE 17.3 için Türkçe çeviri güncellendi",
+        "Yönetim paneli çevirileri güncellendi",
+        "Eksik çeviriler tamamlandı"
+    ]
 }
