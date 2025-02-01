@@ -3,7 +3,7 @@ DLE Türkçe dil dosyasını ve sistem üzerinde yapılması gereken değişikli
 
 ## Çeviri Sahipleri
 * **Elegance** DLE 15.0 ve sonrası
-* **MaRZoCHi** DLE 9.7 ve sonrası
+* **MaRZoCHi** DLE 9.7 ve sonrası  ( *Çevirileri için teşekkürler..* )
 * **Supremacy** DLE 9.6 ve öncesi ( *Çevirileri için teşekkürler..* )
 
 
